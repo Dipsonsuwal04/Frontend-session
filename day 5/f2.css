@@ -1,0 +1,62 @@
+body{
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-image: url("") no-repeat right;
+}
+{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-image: url("");
+    height: 700px
+    width: 400px;
+
+    
+    background-color:aqua;
+
+}
+.navbar{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 15px;
+    color: white;
+}
+h1{
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top: 12px;
+}
+image{
+    background-image: url();
+    height: 780px;
+    width: 900px;
+    background-repeat: no-repeat;
+
+
+
+}
+.portfolio-contents{
+    display: flex;
+    background-color: ;
+}
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+    line-height: 35px;
+}

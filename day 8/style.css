@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    /* flex-direction: column; */
+    /* gap: 20px; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box{
+    background-color: red;
+    padding: 20px;
+    color: white;
+
+    margin: 15px;
+    width: 100px;
+    text-align: center;
+
+
+}
